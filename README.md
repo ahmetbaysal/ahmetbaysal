@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Ahmet Baysal
+#### Junior Data Scientist
+![Junior Data Scientist](https://as2.ftcdn.net/jpg/02/15/05/53/500_F_215055316_vSnVCkTCT7vjTygbSD42GpFzyHRB5Glr.jpg)
+
+I'm Ahmet Baysal, and I'm studying industrial engineering at KOU in Turkey.
 
 <!--
 **ahmetbaysal/ahmetbaysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

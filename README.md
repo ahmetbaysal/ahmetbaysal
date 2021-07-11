@@ -4,19 +4,16 @@
 
 I'm Ahmet Baysal, and I'm studying industrial engineering at KOU in Turkey.
 
-<!--
-**ahmetbaysal/ahmetbaysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🔭 I’m currently working on machine learning and deep learning. 
+- 🌱 I’m currently learning Tensorflow and PyTorch.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Data Science and Machine Learning
+- 📫 How to reach me: e-mail : ab.ahmetbaysal@gmail.com
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbaysal)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ahmet Baysal
-#### Junior Data Scientist
+#### Junior Data Engineer
 ![Junior Data Engineer](https://as2.ftcdn.net/jpg/02/15/05/53/500_F_215055316_vSnVCkTCT7vjTygbSD42GpFzyHRB5Glr.jpg)
 
 I'm studying industrial engineering at KOU in Turkey.

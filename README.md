@@ -7,9 +7,9 @@ I'm studying industrial engineering at KOU in Turkey.
 
 
 
-- 🔭 I’m currently working on machine learning and deep learning. 
-- 🌱 I’m currently learning Tensorflow and PyTorch.
-- 💬 Ask me about Data Science and Machine Learning
+- 🔭 I’m currently working on big data
+- 🌱 I’m currently learning Apache Airflow and Google Cloud
+- 💬 Ask me about Data Science and Big Data
 - 📫 How to reach me: ab.ahmetbaysal@gmail.com
 
 

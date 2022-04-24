@@ -1,15 +1,15 @@
 ### Hi there 👋, I'm Ahmet Baysal
-#### Jr. Data Engineer
-![Jr. Data Engineer](https://as2.ftcdn.net/jpg/02/15/05/53/500_F_215055316_vSnVCkTCT7vjTygbSD42GpFzyHRB5Glr.jpg)
+#### Big Data Engineer
+![Big Data Engineer](https://as2.ftcdn.net/jpg/02/15/05/53/500_F_215055316_vSnVCkTCT7vjTygbSD42GpFzyHRB5Glr.jpg)
 
 I'm studying industrial engineering at KOU in Turkey.
 
 
 
 
-- 🔭 I’m currently working on big data
-- 🌱 I’m currently learning Apache Dataflow and Kafka
-- 💬 Ask me about Data Science and Big Data
+- 🔭 I’m currently working on big data projects
+- 🌱 I’m currently learning ElasticSearch and Apache NiFi
+- 💬 Ask me about Big Data and Data Engineering 
 - 📫 How to reach me: ab.ahmetbaysal@gmail.com
 
 

@@ -2,9 +2,7 @@
 #### Big Data Engineer
 ![Big Data Engineer](https://as2.ftcdn.net/jpg/02/15/05/53/500_F_215055316_vSnVCkTCT7vjTygbSD42GpFzyHRB5Glr.jpg)
 
-I'm an Industrial Engineer and Big Data Engineer
-I'm interested in big data and data science
-
+I graduated from Kocaeli University industrial engineering. I have been dealing with big data and data science for about two years. I am currently working as a big data engineer at Doğuş Teknoloji. I like to research and learn new things. I am a curious, ambitious and thoughtful person.
 
 
 - 🔭 I’m currently working on Google Cloud and Azure

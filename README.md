@@ -2,8 +2,8 @@
 #### Big Data Engineer
 ![Big Data Engineer](https://as2.ftcdn.net/jpg/02/15/05/53/500_F_215055316_vSnVCkTCT7vjTygbSD42GpFzyHRB5Glr.jpg)
 
-I'm studying industrial engineering at KOU in Turkey.
-
+I'm an Industrial Engineer and Big Data Engineer
+I'm interested in big data and data science
 
 
 

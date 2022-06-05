@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Ahmet Baysal
 #### Big Data Engineer
-![Big Data Engineer](https://as2.ftcdn.net/jpg/02/15/05/53/500_F_215055316_vSnVCkTCT7vjTygbSD42GpFzyHRB5Glr.jpg)
+##### Personal Website ~ https://ahmetbaysal.github.io/
+![Big Data Engineer](https://ahmetbaysal.github.io/)
 
 I graduated from Kocaeli University industrial engineering. I have been dealing with big data and data science for about two years. I am currently working as a big data engineer at Doğuş Teknoloji. I like to research and learn new things. I am a curious, ambitious and thoughtful person.
 
